@@ -3,6 +3,7 @@ todo app made with react native
 
 
 o Expo XDE(X) -> Expo CLI(O)
+https://codinghub.tistory.com/48
 
 o brew install / node, npm install / expo cli install
 
