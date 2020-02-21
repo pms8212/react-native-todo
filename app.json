@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Blank Template",
+    "name": "MyTodo",
     "slug": "MyTodo",
     "privacy": "public",
     "sdkVersion": "36.0.0",
@@ -14,7 +14,7 @@
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "resizeMode": "cover", 
       "backgroundColor": "#ffffff"
     },
     "updates": {
@@ -24,7 +24,11 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.test.mytodo"
+    },
+    "android": {
+      "package": "com.test.mytodo"
     },
     "description": "todo app made with react native",
     "githubUrl": "https://github.com/pms8212/react-native-todo.git"
