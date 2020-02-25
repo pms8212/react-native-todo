@@ -13,11 +13,14 @@ o expo init my-project
 o cd my-project
   expo start
   
-o QR Code Scan -> run app  
+o QR Code Scan / run android,ios click -> run app  
   
-o atom editor -> change source
+o atom editor or vscode -> change source
 
 o change source -> save -> change contents in app
+
+o code-push : android / ios platform 
+  publish   : expo (cli : expo publish)
 
 =========================================
 
@@ -26,4 +29,4 @@ o change source -> save -> change contents in app
 3. git add .
 4. git commit -m "Initial Commit"
 5. git push origin master
-6. ennter username, password
+6. enter username, password
