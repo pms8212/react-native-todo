@@ -20,6 +20,7 @@ o atom editor or vscode -> change source
 o change source -> save -> change contents in app
 
 o code-push : android / ios platform 
+
 o publish   : expo (cli : expo publish)
 
 =========================================
